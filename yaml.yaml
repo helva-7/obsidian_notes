@@ -1,0 +1,21 @@
+team : lakers #strings, it doesnt need quotations
+city : los angeles 
+year_founded : 1946 #this is an integer , it can be a float or anything 
+is_current_champion : false #this is a boolean 
+background: |
+            ezfzezefejfezkfekjfekfejfje  
+          #this is a text ; we use the pipe to write multiple lines 
+famous_players: 
+  - lebron james #this is a list, we can also use brakets with no quotations separated by a comma
+    number: 23   #u can merge between diferent datastructures and make it complex
+  - oui 
+
+management_staff:
+  general_manager: fahd elhaloui  #this is a dictionary 
+  president: fahd elhaloui
+
+        
+
+
+
+ 

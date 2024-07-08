@@ -1,0 +1,2 @@
+- ports are a fundemental concept in computer networking that allows multiple apps and services to communicate simultaneously using one network connection
+- ports are indentified by 16-bit number , from 0 to 65535

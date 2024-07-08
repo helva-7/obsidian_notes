@@ -1,0 +1,3 @@
+  - CMD is a command that can be on JSON format or shell format , its a runtime command of the image that get runs everytime we build and run the image 
+  - if u attach a command on the docker run command, it overwrites the command on the image  
+  - the entrypoint is the command that we want to apply without attaching to it an argument , instead we pass that argument on the docker run command and this way we stop hardcoding it everytime we want to change it ; hence , if u dont pass an argument when using entrypoint , u gonna get an error . so you must configure a default command ,thats when u gonna use both the entrypoint and the command instruction . in this case , u put on the CMD only the default argument 

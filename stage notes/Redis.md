@@ -1,0 +1,5 @@
+- redis is an **in-memory data structure store** that supports various data structures 
+- Redis stores all data in memory, which allows for extremely fast read and write operations
+- ## Redis Use Cases
+  - Caching web pages and reducing server load
+  - Storing session data and user preferences
