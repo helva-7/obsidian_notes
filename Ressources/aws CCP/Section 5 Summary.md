@@ -1,0 +1,3 @@
+- **EC2 Instance** : AMI (OS) + Instance Size (CPU + RAM) + Storage + security groups (Networking) + EC2 User Data (executable script at the beginning of launching the EC2 Instance)
+- **Security Groups** : Firewall attached to the EC2 instance  
+- **EC2 Instance Role** : link to IAM roles 
