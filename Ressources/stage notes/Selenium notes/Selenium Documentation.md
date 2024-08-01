@@ -15,4 +15,7 @@ dont talk to the browser directly
 - the driver object we create controls all of chrome browser
 - if u want to hit any URL in the browser , use the method : "driver.get("URL")"
 - some VPN stricted companies cant let selenium download the driver needed, and doesnt let the selenium the authority to do that , so the user has to search for the driver and its convenient version 
-
+- to maximize the window of the browser we acess , use "**driver.maximize_window**"
+- if u want to get the title of the window like the one we set on html , use "**driver.title**" and stock it on a variable 
+- to get the URL of the website we are on, maybe after redirecting us to another one , use "**driver.current_url**"
+- to hit all these tests on **Firefox**, u simply replace "Chrome()" by "Firefox()" as method of driver object. the same thing with **Edge** browser , u simply replace it with "Edge()"

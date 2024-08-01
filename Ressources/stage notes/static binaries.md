@@ -1,0 +1,1 @@
+static binaries are executable files after it been compiled along side with the libraries statically linked to the files . 

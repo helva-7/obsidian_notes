@@ -1,3 +1,3 @@
 - https://www.youtube.com/watch?v=-oXigF0frLE => How to Achieve More in 1 Week than Most People Do in 12 months
 - https://www.youtube.com/watch?v=891MOyYBadY => Sam Harris basically unlocks the secret to life
-- 
+- https://youtu.be/Nrg1M_wEbdI?si=iVENX4DCNJUI49GR =>

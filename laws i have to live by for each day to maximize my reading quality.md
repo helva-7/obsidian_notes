@@ -1,0 +1,3 @@
+- do not touch social media till 12 pm (my phone too if possible)
+- find a 30 to 40 min each morning and evening to read
+- read both textbook and audiobook 

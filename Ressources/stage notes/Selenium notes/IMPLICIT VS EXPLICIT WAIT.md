@@ -1,0 +1,2 @@
+- implicit wait in selenium is like a global timeout on the whole script, its helpful when something on the webpage would take some time before showing. it works by defining the maximum amount of time the driver would wait before the continuing to the next line ; but if the element takes less , it continues  
+- by simply adding "driver.implicitly_wait(5)" , the driver will wait for the element to show out . this will eliminate the time.sleep functions since they are not practical
